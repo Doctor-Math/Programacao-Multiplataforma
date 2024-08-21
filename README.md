@@ -1,2 +1,2 @@
-# Multiplatform-Programming
-Exercises related to the Multiplatform Programming discipline, developed throughout the 3rd year of Technical High School, at the Polytechnic School of Minas Gerais (POLIMIG).
+# Programação Multiplataforma
+Exercícios relacionados à disciplina de Programação Multiplataforma, desenvolvidos ao longo do 3º ano do Ensino Médio Técnico, da Escola Politécnica de Minas Gerais (POLIMIG).
